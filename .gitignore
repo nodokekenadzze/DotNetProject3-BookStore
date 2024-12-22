@@ -1,0 +1,5 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# You can also add any other files or directories to ignore here
